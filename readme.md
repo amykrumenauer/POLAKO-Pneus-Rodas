@@ -27,20 +27,6 @@ O site **POLAKO Pneus & Rodas** foi desenvolvido com o objetivo de mostrar a his
 Você pode acessar o site diretamente através do seguinte link:  
 [**POLAKO Pneus & Rodas**](https://blog-polako-pneus-rodas.vercel.app/)
 
-## Contribuições 🤝
-
-Se você deseja contribuir com o projeto, siga as etapas abaixo:
-
-1. Faça um **fork** deste repositório.
-2. Crie uma nova branch com a sua feature:  
-   `git checkout -b minha-nova-feature`
-3. Faça as modificações necessárias.
-4. Realize o **commit** das alterações:  
-   `git commit -am 'Adiciona nova feature'`
-5. Faça o **push** para o seu fork:  
-   `git push origin minha-nova-feature`
-6. Abra um **pull request** para este repositório.
-
 
 
 
